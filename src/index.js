@@ -4,8 +4,8 @@ const readline = require('readline')
 const data = {
   url: 'http://www.diarioonline.com.br',
   range: {
-    init: 9000,
-    end: 9100,
+    init: 519000,
+    end: 520000,
   }
 }
 
